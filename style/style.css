@@ -49,17 +49,12 @@
 
 
 .home-section {
-    position: absolute;
-    width: 1600px;
-    height: 5181px;
-    left: 0;
-    top: 120px;
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    margin-top: 120px;
+    justify-content: center;
     align-items: center;
     gap: 80;
-    padding: 0px;
+
 }
 
 .middle-part {
@@ -74,7 +69,7 @@
     margin-top: 30px;
     border-radius: 24px;
     margin-bottom: 80px;
-    margin-left: 460px;
+
     background: rgb(198, 228, 214);
 }
 
